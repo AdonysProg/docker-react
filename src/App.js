@@ -6,14 +6,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-       <h1>Docker for the BESTX TOOL!</h1> 
+       <h1>Elastic bean + travis + docker = not bad!</h1> 
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+        Click me bish! and learn react
         </a>
       </header>
     </div>
